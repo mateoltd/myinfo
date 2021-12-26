@@ -1,6 +1,6 @@
 # 👋 Hey, I’m @soyzer0
 
-## ➜ I'm a software engineer.
+Studying to be a Software Engineer.
 
 ## ➜🌱 I love learning new things, i'm experienced in..
 ###         » JavaScript & Python3
