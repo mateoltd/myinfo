@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ca6dam06tlic82mtspbksuu9w?si=ab86a439738f4064">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://media.matheo.es/a.svg">
   </a>
 </div>
 
