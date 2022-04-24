@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>SOy Zer0</b>
+  <b>Soy Zer0</b>
 </h1>
 
 ¡Saludos! Soy Mathéo, un estudiante de ingenieria de software y ciberseguridad al que le encanta aprender. Actualmente estoy trabajando en <a href="gw.matheo.es"
