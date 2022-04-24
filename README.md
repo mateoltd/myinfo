@@ -1,9 +1,10 @@
 <h1 align="center">
-  <b>Soy Zer0</b>
+  <b>SoyZer0</b>
 </h1>
 
-¡Saludos! Soy Mathéo, un estudiante de ingenieria de software y ciberseguridad al que le encanta aprender. Actualmente estoy trabajando en <a href="gw.matheo.es"
->GatitosWorld</a> como CEO.
+¡Saludos! Soy Mathéo, un estudiante de ingenieria de software y ciberseguridad al que le encanta aprender. Actualmente estoy trabajando en [GatitosWorld](https://discord.gg/gatitos) como CEO y desarrollador Full-Stack.
+
+> Me encanta programar a nivel back-end c:
 <br>
 
 <p>
