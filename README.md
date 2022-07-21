@@ -2,10 +2,14 @@
   <b>SoyZer0</b>
 </h1>
 
-¡Saludos! Soy Mathéo, un estudiante de ingenieria de software y ciberseguridad al que le encanta aprender. Actualmente estoy trabajando en [GatitosWorld](https://discord.gg/gatitos) como CEO y desarrollador Full-Stack.
+¡Saludos! Soy Mathéo, un estudiante de ingenieria de software y ciberseguridad. Actualmente estoy trabajando en [GatitosWorld](https://discord.gg/gatitos) como CEO y desarrollador Full-Stack.
 
 > Me encanta programar a nivel back-end c:
 <br>
+
+# Proyectos próximamente
+- [CattoBot](https://github.com/CattoBot)
+- Proyecto supersecreto 
 
 <p>
 <div align="center">
@@ -16,13 +20,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=282828">
 </div>
 </p>
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ca6dam06tlic82mtspbksuu9w?si=ab86a439738f4064">
-    <img src="https://media.matheo.es/a.svg">
-  </a>
-</div>
 
 
 ## Mis estadisticas
