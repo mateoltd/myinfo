@@ -7,7 +7,7 @@
 > Me encanta programar a nivel back-end c:
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/216746923070062593)
+![Discord Presence](https://lanyard.cnrad.dev/api/216746923070062593)
 
 # Proyectos próximamente
 - [CattoBot](https://github.com/CattoBot)
