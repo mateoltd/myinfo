@@ -4,10 +4,10 @@
 
 ¡Saludos! Soy Mathéo, un estudiante de ingenieria de software y ciberseguridad. Actualmente estoy trabajando en [GatitosWorld](https://discord.gg/gatitos) como CEO y desarrollador Full-Stack.
 
-
-
 > Me encanta programar a nivel back-end c:
 <br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/216746923070062593)(https://discord.com/users/216746923070062593)
 
 # Proyectos próximamente
 - [CattoBot](https://github.com/CattoBot)
