@@ -4,7 +4,7 @@
 
 ¡Saludos! Soy Mathéo, un estudiante y apasionado del IoT y todo lo que lo rodea.
 <br>
-**Mi actividad en Discord**:
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/216746923070062593)](https://discord.com/users/216746923070062593)
 
 # Mis proyectos
