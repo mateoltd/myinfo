@@ -12,8 +12,8 @@
   - CattoAI: El primer bot de recopilación de Inteligencia en contra de la corrrupción en equipos de moderación, y moderación automática en canales de voz.
     > Código cerrado.
 - [El servidor de Discord GatitosWorld]([https://discord.gg/gatitos)
-
-- [El portal InterBach ](https://interbach.org/) - Próximamente.
+<br>
+- [El portal InterBach](https://interbach.org/) - Próximamente.
 - Otros dos proyecto(s) de nombre no publicado hasta la fecha.
 
 <p>
