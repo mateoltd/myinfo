@@ -25,20 +25,4 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=282828">
 </div>
 </p>
-
-
-## Mis estadisticas
-
-<br/>
-<p align="left">
-  <a href="https://mateo.ltd/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=soyzer0&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=soyzer0&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=soyzer0&custom_title=Gr%C3%A1fico%20de%20Math%C3%A9o&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://matheo.es/)
-
-
 <!-- CREDITS TO Abhigyan -->
