@@ -10,7 +10,6 @@
 # Mis proyectos
 - [El bot de Discord CattoBot](https://github.com/CattoBot)
   - CattoAI: El primer bot de recopilación de Inteligencia en contra de la corrrupción en equipos de moderación, y moderación automática en canales de voz.
-    > Código cerrado.
 - [El servidor de Discord GatitosWorld]([https://discord.gg/gatitos)
 
 <br>
