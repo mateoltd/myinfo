@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>SoyZer0</b>
+  <b>Matt</b>
 </h1>
 
 ¡Saludos! Soy Mathéo, un estudiante de ingenieria de software y ciberseguridad. Actualmente estoy trabajando en [GatitosWorld](https://discord.gg/gatitos) como CEO y desarrollador Full-Stack.
@@ -9,9 +9,14 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/216746923070062593)](https://discord.com/users/216746923070062593)
 
-# Proyectos próximamente
-- [CattoBot](https://github.com/CattoBot)
-- Proyecto supersecreto 
+# Mis proyectos
+- [El bot de Discord CattoBot](https://github.com/CattoBot)
+  - CattoAI: El primer bot de recopilación de Inteligencia en contra de la corrrupción en equipos de moderación, y moderación automática en canales de voz.
+    > Código cerrado.
+- [El servidor de Discord GatitosWorld]([https://discord.gg/gatitos)
+
+- [El portal InterBach ](https://interbach.org/) - Próximamente.
+- Otros dos proyecto(s) de nombre no publicado hasta la fecha.
 
 <p>
 <div align="center">
@@ -28,7 +33,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://matheo.es/">
+  <a href="https://mateo.ltd/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=soyzer0&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=soyzer0&theme=gruvbox&hide_border=true" />
   </a>
